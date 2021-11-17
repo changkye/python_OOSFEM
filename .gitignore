@@ -132,4 +132,5 @@ dmypy.json
 .venv/
 res/
 .DS_Store
-.pyc
+*.pyc
+__pycache__/
